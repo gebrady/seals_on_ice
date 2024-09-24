@@ -1,7 +1,10 @@
 # Seals On Ice: Mapping ice habitat for harbor seals in tidewater glacier fjords
 ## Quantifying ice change in Kenai Fjords National Park through monthly acquisitions using fixed wing aircraft and aerial photos.
 
-#### _National Park Service, Alaska Regional Office, Scientist in Parks Program_
+
+#### _Scientist-in-Parks Program_
+#### _National Park Service, Alaska Regional Office, Anchorage, Alaska_
+#### _Kenai Fjords National Park, Seward, Alaska_
 
 This repository contains our Jupyter Notebook workflow for mapping harbor seal habitat from aerial imagery. By using a shareable, annotatable format like a Jupyter Notebook, the steps in our remote sensing/GIS processing can be better understood and modified for similar projects by other researchers.
 
