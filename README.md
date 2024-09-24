@@ -5,7 +5,7 @@
 
 This repository contains our Jupyter Notebook workflow for mapping harbor seal habitat from aerial imagery. By using a shareable, annotatable format like a Jupyter Notebook, the steps in our remote sensing/GIS processing can be better understood and modified for similar projects by other researchers.
 
-![Seals on Ice](field_photos/DSC_0566-3.jpg)
+![Seals on Ice](field_photos/DSC_0566-.jpg)
 
 
 Graham Brady
